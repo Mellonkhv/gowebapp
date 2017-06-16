@@ -8,7 +8,6 @@ import(
 	"os"
 	"os/signal"
 	"syscall"
-	"crypto/cipher"
 )
 
 type Config struct {
